@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the Department of Biomedical Engineering of Johns Hopkins University (advisor: [Alexis Battle](https://battlelab.jhu.edu/)). I obtained my PhD in biostatistics from Johns Hopkins University in 2020 (advisor:[Nilanjan Chatterjee](https://nilanjanchatterjee.org/)).
+I am a Postdoctoral Fellow at the Department of Biomedical Engineering of Johns Hopkins University (advisor: [Alexis Battle](https://battlelab.jhu.edu/)). I obtained my PhD in biostatistics from Johns Hopkins University in 2020 (advisor: [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)).
 
 My research focuses on developing statistical and machine learning methods for large-scale genetic and genomic studies. Areas of interest include statistical genetics, Mendelian randomization, single-cell genomics and bioinformatics.
 
