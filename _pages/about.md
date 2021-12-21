@@ -14,11 +14,11 @@ My research focuses on developing statistical and machine learning methods for l
 
 Education
 ------
-**PhD in Biostatistics (2020)**
-Department of Biostatistics
-Johns Hopkins Bloomberg School of Public Health
+**PhD in Biostatistics (2020)**   
+Department of Biostatistics    
+Johns Hopkins Bloomberg School of Public Health   
 Baltimore, MD
 
-**BS in Mathematics (2015)**
-Fudan University
+**BS in Mathematics (2015)**   
+Fudan University   
 Shanghai, China
