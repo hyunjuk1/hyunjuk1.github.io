@@ -5,15 +5,23 @@ permalink: /talks/
 author_profile: true
 ---
 
+Invited talks
+------
+
+2021	Joint Statistical Meetings. Genome-wide association studies of 27 accelerometry-derived physical activity phenotypes (Online).
+
+2020	International Chinese Statistical Association (ICSA) Applied Statistics Symposium (Online).
+
+2020	Shandong University Health Big Data Research Institute (Online)
+
+2019	joint meeting of Statistical Genetics and Causal Inference working groups, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. Recent Developments in Mendelian Randomization (Baltimore, MD).
+
+Other conference presentations
+------
+
 2021  American Society of Human Genetics (ASHG) Annual Meeting, Poster (Online). Single-cell allele-specific expression analysis and comparison using mixture models.
 
-2021	Joint Statistical Meetings, Invited Talk (Online). Genome-wide association studies of 27 accelerometry-derived physical activity phenotypes.
-
-2020	International Chinese Statistical Association (ICSA) Applied Statistics Symposium, Invited Talk (Online).
-
 2020	American Society of Human Genetics (ASHG) Annual Meeting, Poster (Online).
-
-2019	Recent Developments in Mendelian Randomization. Invited lecture at joint meeting of Statistical Genetics and Causal Inference working groups, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health (Baltimore, MD).
 
 2019	Fourth International Mendelian Randomization Conference, Oral Presentation (Bristol, UK).
 
