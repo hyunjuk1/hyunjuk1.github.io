@@ -22,3 +22,7 @@ Baltimore, MD
 **BS in Mathematics (2015)**   
 Fudan University   
 Shanghai, China
+
+Contact
+------
+Email: guanghaoqi@jhu.edu
