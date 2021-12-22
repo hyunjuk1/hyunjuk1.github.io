@@ -14,7 +14,9 @@ Guest lectures
 
 2020	Guest Lecturer, Principles of Genetic Epidemiology (JHSPH 340.734). Topic: An Introduction to Mendelian Randomization.
 
-2018	Guest Lecturer, Methods in Biostatistics II (JHSPH 140.652). Topic: Consistency of M-esimators.
+2018	Guest Lecturer, Methods in Biostatistics II (JHSPH 140.652). Topic: Hypothesis testing.
+
+2017	Guest Lecturer, Statistical Theory IV (PhD level, JHSPH 140.734). Topic: Consistency of M-esimators.
 
 Teaching experience
 ------
@@ -25,7 +27,5 @@ Teaching experience
 2018	Lab Instructor and Lead Teaching Assistant, Methods in Biostatistics I-II (JHSPH 140.651-652).
 
 2017-2018	Lab Instructor and Teaching Assistant, Methods in Biostatistics I-IV (JHSPH 140.651-654)
-
-2017	Guest Lecturer, Statistical Theory IV (PhD level, JHSPH 140.734).
 
 2016-2017	Teaching Assistant, Statistical Theory I-IV (PhD level, JHSPH 140.731-734)
