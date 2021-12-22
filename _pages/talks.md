@@ -10,9 +10,9 @@ Invited talks
 
 2021	Joint Statistical Meetings. Genome-wide association studies of 27 accelerometry-derived physical activity phenotypes (Online).
 
-2020	International Chinese Statistical Association (ICSA) Applied Statistics Symposium (Online).
+2020	International Chinese Statistical Association (ICSA) Applied Statistics Symposium. Robust Mendelian Randomization Analysis Using Mixture Models (Online).
 
-2020	Shandong University Health Big Data Research Institute (Online).
+2020	Shandong University Health Big Data Research Institute. Robust Mendelian Randomization Analysis Using Mixture Models (Online).
 
 2019	Joint meeting of Statistical Genetics and Causal Inference working groups, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. Recent Developments in Mendelian Randomization (Baltimore, MD).
 
