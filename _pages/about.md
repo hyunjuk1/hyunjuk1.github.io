@@ -25,4 +25,4 @@ Shanghai, China
 
 Contact
 ------
-Email: guanghaoqi@jhu.edu
+Email: <guanghaoqi@jhu.edu>
