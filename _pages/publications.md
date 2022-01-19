@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Elorbany R, Popp JM, Rhodes K, Strober BJ, Barr K, **Qi G**, Gilad YM, Battle A. Single-Cell Sequencing Reveals Lineage-Specific Dynamic Genetic Regulation of Gene Expression During Human Cardiomyocyte Differentiation. bioRxiv (2021). <https://doi.org/10.1101/2021.06.03.446970>.
+Elorbany R, Popp JM, Rhodes K, Strober BJ, Barr K, **Qi G**, Gilad YM, Battle A. Single-Cell Sequencing Reveals Lineage-Specific Dynamic Genetic Regulation of Gene Expression During Human Cardiomyocyte Differentiation. PLoS Genetics (In press). <https://doi.org/10.1101/2021.06.03.446970>.
 
-**Qi G**, Dutta D, Leroux A, Ray D, Crainiceanu C, Chatterjee N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. Genetic Epidemiology (In press). <https://doi.org/10.1101/2021.02.15.21251499>.
+**Qi G**, Dutta D, Leroux A, Ray D, Crainiceanu C, Chatterjee N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. Genetic Epidemiology (2020). <http://doi.org/10.1002/gepi.22441>.
 
 Jin J, **Qi G**, Yu Z, Chatterjee N. Mendelian Randomization Analysis Using Multiple Biomarkers of an Underlying Common Exposure. bioRxiv (2021): 429979. <https://doi.org/10.1101/2021.02.05.429979>.
 
