@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Elorbany R, Popp JM, Rhodes K, Strober BJ, Barr K, **Qi G**, Gilad YM, Battle A. Single-Cell Sequencing Reveals Lineage-Specific Dynamic Genetic Regulation of Gene Expression During Human Cardiomyocyte Differentiation. PLoS Genetics (In press). <https://doi.org/10.1101/2021.06.03.446970>.
+Elorbany R, Popp JM, Rhodes K, Strober BJ, Barr K, **Qi G**, Gilad YM, Battle A. Single-cell sequencing reveals lineage-specific dynamic genetic regulation of gene expression during human cardiomyocyte differentiation. PLoS Genetics (In press). <https://doi.org/10.1101/2021.06.03.446970>.
 
 **Qi G**, Dutta D, Leroux A, Ray D, Crainiceanu C, Chatterjee N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. Genetic Epidemiology (2022). <http://doi.org/10.1002/gepi.22441>.
 
-Jin J, **Qi G**, Yu Z, Chatterjee N. Mendelian Randomization Analysis Using Multiple Biomarkers of an Underlying Common Exposure. bioRxiv (2021): 429979. <https://doi.org/10.1101/2021.02.05.429979>.
+Jin J, **Qi G**, Yu Z, Chatterjee N. Mendelian randomization analysis using multiple biomarkers of an underlying common exposure. bioRxiv (2021): 429979. <https://doi.org/10.1101/2021.02.05.429979>.
 
 **Qi G**, Chatterjee N. A comprehensive evaluation of methods for Mendelian randomization using realistic simulations of genome-wide association studies. International Journal of Epidemiology (2021). <https://doi.org/10.1093/ije/dyaa262>.
 
-Arvanitis M, **Qi G**, Bhatt DL, Post WS, Chatterjee N, Battle A, McEvoy JW. A Linear and Non-Linear Mendelian Randomization Analysis of the Association Between Diastolic Blood Pressure and Cardiovascular Events: The J Curve Revisited. Circulation (2020). <https://doi.org/10.1161/CIRCULATIONAHA.120.049819>.
+Arvanitis M, **Qi G**, Bhatt DL, Post WS, Chatterjee N, Battle A, McEvoy JW. A linear and non-linear Mendelian randomization analysis of the association between diastolic blood pressure and cardiovascular events: the J curve revisited. Circulation (2020). <https://doi.org/10.1161/CIRCULATIONAHA.120.049819>.
 
 Yu Z, Coresh J, **Qi G**, …, Chatterjee N, Tin A. et al. A bidirectional Mendelian randomization study supports causal effects of kidney function on blood pressure. Kidney International (2020). <https://doi.org/10.1016/j.kint.2020.04.044>.
 
