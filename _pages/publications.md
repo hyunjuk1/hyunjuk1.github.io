@@ -11,9 +11,9 @@ Elorbany R, Popp JM, Rhodes K, Strober BJ, Barr K, **Qi G**, Gilad YM, Battle A.
 
 Jin J, **Qi G**, Yu Z, Chatterjee N. Mendelian Randomization Analysis Using Multiple Biomarkers of an Underlying Common Exposure. bioRxiv (2021): 429979. <https://doi.org/10.1101/2021.02.05.429979>.
 
-Arvanitis M, **Qi G**, Bhatt DL, Post WS, Chatterjee N, Battle A, McEvoy JW. A Linear and Non-Linear Mendelian Randomization Analysis of the Association Between Diastolic Blood Pressure and Cardiovascular Events: The J Curve Revisited. Circulation (2020). <https://doi.org/10.1161/CIRCULATIONAHA.120.049819>.
+**Qi G**, Chatterjee N. A comprehensive evaluation of methods for Mendelian randomization using realistic simulations of genome-wide association studies. International Journal of Epidemiology (2021). <https://doi.org/10.1093/ije/dyaa262>.
 
-**Qi G**, Chatterjee N. A comprehensive evaluation of methods for Mendelian randomization using realistic simulations of genome-wide association studies. International Journal of Epidemiology (2020). <https://doi.org/10.1093/ije/dyaa262>.
+Arvanitis M, **Qi G**, Bhatt DL, Post WS, Chatterjee N, Battle A, McEvoy JW. A Linear and Non-Linear Mendelian Randomization Analysis of the Association Between Diastolic Blood Pressure and Cardiovascular Events: The J Curve Revisited. Circulation (2020). <https://doi.org/10.1161/CIRCULATIONAHA.120.049819>.
 
 Yu Z, Coresh J, **Qi G**, …, Chatterjee N, Tin A. et al. A bidirectional Mendelian randomization study supports causal effects of kidney function on blood pressure. Kidney International (2020). <https://doi.org/10.1016/j.kint.2020.04.044>.
 
