@@ -8,6 +8,8 @@ author_profile: true
 Guest lectures
 ------
 
+2022	Guest Lecturer, Advanced Methods for Statistical Genetics and Genomics (JHSPH 140.686). Topic: An introduction to Mendelian randomization.
+
 2020	Guest Lecturer, Methods in Biostatistics (JHSPH 140.654). Topic: Multiple comparisons in genetic and genomic studies.
 
 2020	Guest Lecturer, Advanced Methods for Statistical Genetics and Genomics (JHSPH 140.686). Topic: An introduction to Mendelian randomization.
