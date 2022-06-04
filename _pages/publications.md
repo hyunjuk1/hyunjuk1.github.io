@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Nilanjan Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. bioRxiv (2022). <https://doi.org/10.1101/2022.06.03.494686>.
+**Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Nilanjan Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. bioRxiv (2022): 494686. <https://doi.org/10.1101/2022.06.03.494686>.
 
 
 Elorbany R, Popp JM, Rhodes K, Strober BJ, Barr K, **Qi G**, Gilad YM, Battle A. Single-cell sequencing reveals lineage-specific dynamic genetic regulation of gene expression during human cardiomyocyte differentiation. PLoS Genetics (2022). <https://doi.org/10.1371/journal.pgen.1009666>.
