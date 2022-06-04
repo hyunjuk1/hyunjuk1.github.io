@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+1.	**Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Nilanjan Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. bioRxiv (2022). <https://doi.org/10.1101/2022.06.03.494686>.
+
+
 Elorbany R, Popp JM, Rhodes K, Strober BJ, Barr K, **Qi G**, Gilad YM, Battle A. Single-cell sequencing reveals lineage-specific dynamic genetic regulation of gene expression during human cardiomyocyte differentiation. PLoS Genetics (2022). <https://doi.org/10.1371/journal.pgen.1009666>.
 
 **Qi G**, Dutta D, Leroux A, Ray D, Crainiceanu C, Chatterjee N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. Genetic Epidemiology (2022). <http://doi.org/10.1002/gepi.22441>.
