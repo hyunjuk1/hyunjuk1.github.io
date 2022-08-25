@@ -19,6 +19,8 @@ Invited talks
 Other conference presentations
 ------
 
+2022  American Society of Human Genetics (ASHG) Annual Meeting, **Poster Talk and Reviewers' Choice Abstract** (Los Angeles, CA). Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects.
+
 2021  American Society of Human Genetics (ASHG) Annual Meeting, Poster (Online). Single-cell allele-specific expression analysis and comparison using mixture models.
 
 2020	American Society of Human Genetics (ASHG) Annual Meeting, Poster (Online).
@@ -31,10 +33,10 @@ Other conference presentations
 
 2018	Program in Quantitative Genomics (PQG) Conference, Poster (Boston, MA).
 
-2018	American Society of Human Genetics (ASHG) Annual Meeting, Poster (San Diego, CA).
+2018	American Society of Human Genetics (ASHG) Annual Meeting, Poster and **Reviewers' Choice Abstract** (San Diego, CA).
 
 2018	Joint Statistical Meetings (JSM), Topic Contributed Talk (Vancouver, Canada).
 
-2017	American Society of Human Genetics (ASHG) Annual Meeting, Poster (Orlando, FL).
+2017	American Society of Human Genetics (ASHG) Annual Meeting, Poster and **Reviewers' Choice Abstract** (Orlando, FL).
 
 2017	MD-GEM Genetics Research Day, Poster (Baltimore, MD).
