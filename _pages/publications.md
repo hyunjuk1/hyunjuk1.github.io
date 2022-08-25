@@ -32,7 +32,7 @@ Geuter S, **Qi G**, Welsh RC, Wager TD, Lindquist MA. Effect size and power in f
 
 #### In-Progress
 
-**Qi G**, Strober BJ, Popp JM, Ji H, Battle A. Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects. Manuscript in preparation.
+**Qi G**, Strober BJ, Popp JM, Ji H, Battle A. Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects. *Manuscript in preparation*.
 
 **Qi G**, Dutta D, Li T, Battle A. Evaluation of network-based approaches to identifying core genes under the omnigenic model.
 
