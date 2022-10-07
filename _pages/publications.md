@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Qi G**, Strober BJ, Popp JM, Ji H, Battle A. Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects. bioRxiv (2022): 511215. <https://www.biorxiv.org/content/10.1101/2022.10.06.511215v1>.
+
 **Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. bioRxiv (2022): 494686. <https://doi.org/10.1101/2022.06.03.494686>.
 
 
