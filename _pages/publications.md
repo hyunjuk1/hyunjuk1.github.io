@@ -31,11 +31,3 @@ Zhang H, Ahearn TU, Lecarpentier J, Barnes D, Beesley J, **Qi G**, …, Chatterj
 Zhang Y, **Qi G**, Park JH, Chatterjee N. Estimation of complex effect-size distributions using summary-level statistics from genome-wide association studies across 32 complex traits. Nature Genetics 50, no. 9 (2018): 1318. <https://doi.org/10.1038/s41588-018-0193-x>.
 
 Geuter S, **Qi G**, Welsh RC, Wager TD, Lindquist MA. Effect size and power in fMRI group analysis. bioRxiv (2018): 295048. <https://doi.org/10.1101/295048>.
-
-#### In-Progress
-
-**Qi G**, Strober BJ, Popp JM, Ji H, Battle A. Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects. *Manuscript in preparation*.
-
-**Qi G**, Dutta D, Li T, Battle A. Evaluation of network-based approaches to identifying core genes under the omnigenic model.
-
-
