@@ -11,3 +11,5 @@ author_profile: true
 
 [fastASSET](https://github.com/gqi/fastASSET): Fast association analysis based on subsets.
 
+[DAESC](https://github.com/gqi/DAESC): Differential allele-specific expression using single-cell RNA-seq data.
+
