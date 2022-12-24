@@ -7,8 +7,9 @@ author_profile: true
 
 **Qi G**, Strober BJ, Popp JM, Ji H, Battle A. Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects. bioRxiv (2022): 511215. <https://www.biorxiv.org/content/10.1101/2022.10.06.511215v1>.
 
-**Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. bioRxiv (2022): 494686. <https://doi.org/10.1101/2022.06.03.494686>.
+Strober BJ, Karl K, Popp J, **Qi G**, Gordon MG, Perez R, Ye CJ, Battle A. Uncovering context-specific genetic-regulation of gene expression from single-cell RNA-sequencing using latent-factor models. bioRxiv (2022): 521678. <https://www.biorxiv.org/content/10.1101/2022.12.22.521678v1>.
 
+**Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. bioRxiv (2022): 494686. <https://doi.org/10.1101/2022.06.03.494686>.
 
 Elorbany R, Popp JM, Rhodes K, Strober BJ, Barr K, **Qi G**, Gilad YM, Battle A. Single-cell sequencing reveals lineage-specific dynamic genetic regulation of gene expression during human cardiomyocyte differentiation. PLoS Genetics (2022). <https://doi.org/10.1371/journal.pgen.1009666>.
 
