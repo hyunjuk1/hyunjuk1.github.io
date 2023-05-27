@@ -12,6 +12,8 @@ I am a Postdoctoral Fellow at the Department of Biomedical Engineering of Johns 
 
 My research focuses on developing statistical and machine learning methods for large-scale genetic and genomic studies. Areas of interest include statistical genetics, Mendelian randomization, single-cell genomics and bioinformatics.
 
+Starting in August 2023, I will be an Assistant Professor in Biostatistics at the University of Washington, Seattle.
+
 Education
 ------
 **PhD in Biostatistics (2020)**   
