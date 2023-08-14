@@ -27,4 +27,4 @@ Shanghai, China
 
 Contact
 ------
-Email: <guanghaoqi@jhu.edu>
+Email: <gqi@uw.edu>
