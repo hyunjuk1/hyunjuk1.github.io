@@ -12,6 +12,8 @@ I am a tenure-track Assistant Professor of Biostatistics at the University of Wa
 
 My research focuses on developing statistical and machine learning methods for large-scale genetic and genomic studies. Areas of interest include statistical genetics, Mendelian randomization, single-cell genomics and bioinformatics.
 
+Click [here](https://www.biostat.washington.edu/people/guanghao-qi) for my UW faculty page.
+
 Education
 ------
 **PhD in Biostatistics (2020)**   
