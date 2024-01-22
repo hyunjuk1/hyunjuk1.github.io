@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Strober BJ, Karl K, Popp J, **Qi G**, Gordon MG, Perez R, Ye CJ, Battle A. SURGE: uncovering context-specific genetic-regulation of gene expression from single-cell RNA sequencing using latent-factor models. Genome Biology (2024). <https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03152-z>.
+1. Strober BJ, Karl K, Popp J, **Qi G**, Gordon MG, Perez R, Ye CJ, Battle A. SURGE: uncovering context-specific genetic-regulation of gene expression from single-cell RNA sequencing using latent-factor models. Genome Biology (2024). <https://doi.org/10.1186/s13059-023-03152-z>.
 
 1. **Qi G**, Strober BJ, Popp JM, Keener R, Ji H, Battle A. Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects. Nature Communications (2023). <https://doi.org/10.1038/s41467-023-42016-9>.
 
