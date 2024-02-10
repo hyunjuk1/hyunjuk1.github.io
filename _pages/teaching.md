@@ -11,7 +11,7 @@ Instructor
 2024 Winter, Statistical Genetics Seminar (BIOST 581), University of Washington.
 
 
-Guest lectures
+Guest Lectures
 ------
 
 2022	Guest Lecturer, Advanced Methods for Statistical Genetics and Genomics (JHSPH 140.686). Topic: An introduction to Mendelian randomization.
