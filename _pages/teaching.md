@@ -10,7 +10,6 @@ Instructor
 
 2024 Winter, Statistical Genetics Seminar (BIOST 581), University of Washington.
 
-
 Guest Lectures
 ------
 
