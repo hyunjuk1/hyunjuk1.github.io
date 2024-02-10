@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Instructor
+------
+
+2024 Winter, Statistical Genetics Seminar (BIOST 581), University of Washington.
+
+
 Guest lectures
 ------
 
@@ -20,7 +26,7 @@ Guest lectures
 
 2017	Guest Lecturer, Statistical Theory IV (PhD level, JHSPH 140.734). Topic: Consistency of M-esimators.
 
-Teaching experience
+Lab and Teaching Assistantship
 ------
 
 2019-2020	Lab Instructor and Teaching Assistant, Methods in Biostatistics I-IV (JHSPH 140.651-654, four terms).
