@@ -8,6 +8,8 @@ author_profile: true
 Instructor
 ------
 
+2024 Spring, Statistical Genetics I: Mendelian Traits (BIOST 550), University of Washington.
+
 2024 Winter, Statistical Genetics Seminar (BIOST 581), University of Washington.
 
 Guest Lectures
