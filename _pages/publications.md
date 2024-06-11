@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. **Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. bioRxiv (2022): 494686. <https://doi.org/10.1101/2022.06.03.494686>. In press for Nature Communications.
+   
 1. Jin J, **Qi G**, Yu Z, Chatterjee N. Mendelian randomization analysis using multiple biomarkers of an underlying common exposure. Biostatistics (2024). <https://doi.org/10.1093/biostatistics/kxae006>.
    
 1. Strober BJ, Karl K, Popp J, **Qi G**, Gordon MG, Perez R, Ye CJ, Battle A. SURGE: uncovering context-specific genetic-regulation of gene expression from single-cell RNA sequencing using latent-factor models. Genome Biology (2024). <https://doi.org/10.1186/s13059-023-03152-z>.
 
 1. **Qi G**, Strober BJ, Popp JM, Keener R, Ji H, Battle A. Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects. Nature Communications (2023). <https://doi.org/10.1038/s41467-023-42016-9>.
-
-1. **Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. bioRxiv (2022): 494686. <https://doi.org/10.1101/2022.06.03.494686>.
 
 1. Elorbany R, Popp JM, Rhodes K, Strober BJ, Barr K, **Qi G**, Gilad YM, Battle A. Single-cell sequencing reveals lineage-specific dynamic genetic regulation of gene expression during human cardiomyocyte differentiation. PLoS Genetics (2022). <https://doi.org/10.1371/journal.pgen.1009666>.
 
