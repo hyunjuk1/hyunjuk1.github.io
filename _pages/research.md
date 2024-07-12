@@ -6,7 +6,7 @@ The scientific question that drives my research is to map genetic variants to di
 
 ### Mendelian randomization
 
-![MRMix](images/MRMix.webp =250x)
+![MRMix](images/MRMix.webp)
 
 Mendelian randomization is an approach to use genetic variants as instrumental variables to conduct causal inference.
 
