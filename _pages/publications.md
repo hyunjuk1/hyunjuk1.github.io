@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Qi G**, Battle A. Computational methods for allele-specific expression in single cells. Trends in Genetics. 2024. <https://doi.org/10.1016/j.tig.2024.07.003>.
+1. **Qi G**, Battle A. Computational methods for allele-specific expression in single cells. Trends in Genetics (2024). <https://doi.org/10.1016/j.tig.2024.07.003>.
 
 
 1. **Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. bioRxiv (2022): 494686. <https://doi.org/10.1101/2022.06.03.494686>. In press for Nature Communications.
