@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-![Wenyu](/images/Wenyu_photo.jpg "Wenyu")
+![Wenyu](/images/WenyuBo_photo.jpg "Wenyu")
 
 Wenyu Bo, MS Statistics
 
