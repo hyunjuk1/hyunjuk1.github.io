@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor of Biostatistics at the University of Washington. Previously, I obtained my PhD in Biostatistics from Johns Hopkins University in 2020 (advisor: [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)), and completed postdoctoral training also at Johns Hopkins (advisor: [Alexis Battle](https://battlelab.jhu.edu/)). 
+I am a tenure-track Assistant Professor of Biostatistics at the University of Washington. My research focuses on developing statistical and machine learning methods for large-scale genetic and genomic studies. Areas of interest include statistical genetics, Mendelian randomization, single-cell genomics and bioinformatics.
 
-My research focuses on developing statistical and machine learning methods for large-scale genetic and genomic studies. Areas of interest include statistical genetics, Mendelian randomization, single-cell genomics and bioinformatics.
+Previously, I obtained my PhD in Biostatistics from Johns Hopkins University in 2020 (advisor: [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)), and completed postdoctoral training also at Johns Hopkins (advisor: [Alexis Battle](https://battlelab.jhu.edu/)). 
 
 Click [here](https://www.biostat.washington.edu/people/guanghao-qi) for my UW faculty page.
 
