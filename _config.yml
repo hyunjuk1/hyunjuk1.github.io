@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyunju Kim"
-  avatar           : "Hyunju_Kim_headshot2.jpg"
+  avatar           : "Hyunju_Kim_headshot2.JPG"
   bio              : "Assistant Professor, University of Washington"
   location         : "Seattle, WA"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1707-7018"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
