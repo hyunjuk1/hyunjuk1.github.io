@@ -8,35 +8,17 @@ author_profile: true
 Invited talks
 ------
 
-2021	Joint Statistical Meetings. Genome-wide association studies of 27 accelerometry-derived physical activity phenotypes (Online).
+2023	University of Wasington Program in Health Economics and Outcomes Research Methodologies (PHEnOM) Seminar Series. *Biomarkers of the DASH diet and blood pressure reduction*
 
-2020	International Chinese Statistical Association (ICSA) Applied Statistics Symposium. Robust Mendelian randomization analysis using mixture models (Online).
+2019  Center for a Livable Future, Johns Hopkins Bloomberg School of Public Health.*Analyzing Dietary Data from the National Health and Nutrition Examination Survey: Introduction*
 
-2020	Shandong University Health Big Data Research Institute. Robust Mendelian randomization analysis using mixture models (Online).
+2019  Dietary Data Workshop on the MAL-ED study. *Issues in Dietary Data Analysis: the Malnutrition and Enteric Disease (MAL-ED) Study*
 
-2019	Joint meeting of Statistical Genetics and Causal Inference working groups, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. Recent Developments in Mendelian Randomization (Baltimore, MD).
-
-Other conference presentations
+Presentations to Policymakers, Communities, and Stakeholders
 ------
 
-2022  American Society of Human Genetics (ASHG) Annual Meeting, **Poster Talk and Reviewers' Choice Abstract** (Los Angeles, CA). Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects.
+2021  El Poder del Consumidor (Consumer International), Mexico City, Mexico. *Mortality risk associated with ultra-processed food intake*
 
-2021  American Society of Human Genetics (ASHG) Annual Meeting, Poster (Online). Single-cell allele-specific expression analysis and comparison using mixture models.
+Invited Oral presentations
+------
 
-2020	American Society of Human Genetics (ASHG) Annual Meeting, Poster (Online).
-
-2019	Fourth International Mendelian Randomization Conference, Oral Presentation (Bristol, UK).
-
-2019	American Society of Human Genetics (ASHG) Annual Meeting, Poster (Houston, TX).
-
-2019	MD-GEM Genetics Research Day, Poster (Baltimore, MD).
-
-2018	Program in Quantitative Genomics (PQG) Conference, Poster (Boston, MA).
-
-2018	American Society of Human Genetics (ASHG) Annual Meeting, Poster and **Reviewers' Choice Abstract** (San Diego, CA).
-
-2018	Joint Statistical Meetings (JSM), Topic Contributed Talk (Vancouver, Canada).
-
-2017	American Society of Human Genetics (ASHG) Annual Meeting, Poster and **Reviewers' Choice Abstract** (Orlando, FL).
-
-2017	MD-GEM Genetics Research Day, Poster (Baltimore, MD).
