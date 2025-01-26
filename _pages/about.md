@@ -22,10 +22,13 @@ My UW faculty page is [here](https://epi.washington.edu/faculty/kim-hyunju/).
 ### News!
 * **December 2024:** Dr. Kim was selected as a recipient of the Institute of Translational Health Sciences' Early Career Voucher Award. 
 
-* **December 2024:** Dr. Kim's paper was accepted for publication
+* **August 2024:** An invited review by Dr. Kim and [Dr. Rebholz](https://publichealth.jhu.edu/faculty/3208/casey-m-rebholz) titled [Plant-based diets for kidney disease prevention and treatment](https://doi.org/10.1097/MNH.0000000000001015) has been published in *Current Opinion in Nephrology and Hypertension*
 
-* **November 2024:** Dr. Kim's paper "Plant-based diets for kidney disease prevention and treatment"  
+* **July 2024:** Dr. Kim's paper [Plasma proteins associated with plant-based diets: results from the Atherosclerosis Risk in Communities (ARIC) Study and Framingham Heart Study](https://doi.org/10.1016/j.clnu.2024.07.005). This paper is now online in *Clinical Nutrition*
 
+* **July 2024:** Dr. Kim's paper "[Serum protein responses to Dietary Approaches to Stop Hypertension (DASH) and DASH-Sodium trials and associations with blood pressure changes](https://doi.org/10.1097/HJH.0000000000003828)" has been published in *Journal of Hypertension*.
+
+* **June 2024:** Dr. Kim's paper "[An early gestation plasma inflammasome in rural Bangladeshi women](https://doi.org/10.3390/biom14070736)" has been published in Biomolecules.
 
 Education
 ------
