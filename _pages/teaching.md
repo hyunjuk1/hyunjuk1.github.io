@@ -5,36 +5,45 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Instructor
-------
+<!-- #Instructor
+ #------
 
-2024 Spring, Statistical Genetics I: Mendelian Traits (BIOST 550), University of Washington.
+#2024 Spring, Statistical Genetics I: Mendelian Traits (BIOST 550), University of Washington.
 
-2024 Winter, Statistical Genetics Seminar (BIOST 581), University of Washington.
+#2024 Winter, Statistical Genetics Seminar (BIOST 581), University of Washington.-->
 
 Guest Lectures
 ------
 
-2022	Guest Lecturer, Advanced Methods for Statistical Genetics and Genomics (JHSPH 140.686). Topic: An introduction to Mendelian randomization.
+University of Washington 
+------
+2024	Guest Lecturer, NUTR 562 Nutrition and Chronic Disease. **’Omics, Precision Nutrition in Chronic Disease** 
 
-2020	Guest Lecturer, Methods in Biostatistics (JHSPH 140.654). Topic: Multiple comparisons in genetic and genomic studies.
+Johns Hopkins Bloomberg School of Public Health
+-----
+2022	Guest Lecturer, PH 340.687 Epidemiology of Kidney Dsiease. **Diet and Chronic Kidney Disease**
 
-2020	Guest Lecturer, Advanced Methods for Statistical Genetics and Genomics (JHSPH 140.686). Topic: An introduction to Mendelian randomization.
+2018	Guest Lecturer, PH 222.647 Nutrition Epidemiology. **Analytic issues in use and interpretation of nutrition data: Energy Adjustment Methods and Dietary Pattern Analysis**
 
-2020	Guest Lecturer, Principles of Genetic Epidemiology (JHSPH 340.734). Topic: An introduction to Mendelian randomization.
+2018	Guest Lecturer, PH 222.654 Food, Culture, and Nutrition. **Bringing Culture into Nutrition Interventions 4: Using a Positive Deviance Approach**   
 
-2018	Guest Lecturer, Methods in Biostatistics II (JHSPH 140.652). Topic: Hypothesis testing.
 
-2017	Guest Lecturer, Statistical Theory IV (PhD level, JHSPH 140.734). Topic: Consistency of M-esimators.
+Teaching Assistantship
+------  
 
-Lab and Teaching Assistantship
+Johns Hopkins Bloomberg School of Public Health
+-----  
+
+2017-2019  PH.222.647 Nutrition Epidemiology  
+2017-2018  PH.340.650 Nutrition Epidemiology (summer)  
+2018       PH.220.601 Foundations of International Health  
+2018       PH.222.654. Food, Culture, Nutrition 
+
+
+UC Berkeley 
 ------
 
-2019-2020	Lab Instructor and Teaching Assistant, Methods in Biostatistics I-IV (JHSPH 140.651-654, four terms).
+2014       K.1AX Elementary Korean, 5 credits
+2014-2015  PBHLTH.150A Introduction to Epidemiology  
+2015       PBHLTH.W250B Epidemiologic Methods I (online)
 
-
-2018	Lab Instructor and Lead Teaching Assistant, Methods in Biostatistics I-II (JHSPH 140.651-652, two terms).
-
-2017-2018	Lab Instructor and Teaching Assistant, Methods in Biostatistics I-IV (JHSPH 140.651-654, four terms).
-
-2016-2017	Teaching Assistant, Statistical Theory I-IV (PhD level, JHSPH 140.731-734, four terms).
