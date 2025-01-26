@@ -17,15 +17,15 @@ Guest Lectures
 
 University of Washington 
 ------
-2024	Guest Lecturer, NUTR 562 Nutrition and Chronic Disease. **’Omics, Precision Nutrition in Chronic Disease** 
+2024	Guest Lecturer, NUTR 562 Nutrition and Chronic Disease. *’Omics, Precision Nutrition in Chronic Disease* 
 
 Johns Hopkins Bloomberg School of Public Health
 -----
-2022	Guest Lecturer, PH 340.687 Epidemiology of Kidney Dsiease. **Diet and Chronic Kidney Disease**
+2022	Guest Lecturer, PH 340.687 Epidemiology of Kidney Dsiease. *Diet and Chronic Kidney Disease*
 
-2018	Guest Lecturer, PH 222.647 Nutrition Epidemiology. **Analytic issues in use and interpretation of nutrition data: Energy Adjustment Methods and Dietary Pattern Analysis**
+2018	Guest Lecturer, PH 222.647 Nutrition Epidemiology. *Analytic issues in use and interpretation of nutrition data: Energy Adjustment Methods and Dietary Pattern Analysis*
 
-2018	Guest Lecturer, PH 222.654 Food, Culture, and Nutrition. **Bringing Culture into Nutrition Interventions 4: Using a Positive Deviance Approach**   
+2018	Guest Lecturer, PH 222.654 Food, Culture, and Nutrition. *Bringing Culture into Nutrition Interventions 4: Using a Positive Deviance Approach*   
 
 
 Teaching Assistantship
@@ -43,7 +43,7 @@ Johns Hopkins Bloomberg School of Public Health
 UC Berkeley 
 ------
 
-2014       K.1AX Elementary Korean, 5 credits
+2014       K.1AX Elementary Korean  
 2014-2015  PBHLTH.150A Introduction to Epidemiology  
 2015       PBHLTH.W250B Epidemiologic Methods I (online)
 
