@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guanghao Qi"
+title: "Hyunju Kim"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,28 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor of Biostatistics at the University of Washington. My research focuses on developing statistical and machine learning methods for large-scale genetic and genomic studies. Areas of interest include statistical genetics, Mendelian randomization, single-cell genomics and bioinformatics.
+I am an Assistant Professor of Epidemiology at the University of Washington. My research is focused on 
+      1) building evidence on the role of diets for cardiovascular disease prevention, 
+      2) identifying metabolic and biologic pathways that are modifiable by healthy diets, and 
+      3) uncovering early biomarkers and therapeutic targets of cardiovascular disease and kidney disease. Dr. Kim uses high
+      throughput omics data (metabolomics, proteomics, epigenetics) from feeding studies and large observational studies in her
+      research.
+Dr. Kim      
 
-Previously, I obtained my PhD in Biostatistics from Johns Hopkins University in 2020 (advisor: [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)), and completed postdoctoral training also at Johns Hopkins (advisor: [Alexis Battle](https://battlelab.jhu.edu/)). 
-
-Click [here](https://www.biostat.washington.edu/people/guanghao-qi) for my UW faculty page.
+My UW faculty page is [here](https://epi.washington.edu/faculty/kim-hyunju/).
 
 
 ### News!
-* **January 2025:** Qi receives a 5-year K01 award from NIH to develop statistical methods for integration of single-cell eQTL and GWAS data. 
+* **December 2024:** Dr. Kim was selected as a recipient of the Institute of Translational Health Sciences' Early Career Voucher Award. 
+
+* **December 2024:** Dr. Kim's paper was accepted for publication
+
+* **November 2024:** Dr. Kim's paper "Plant-based diets for kidney disease prevention and treatment"  
 
 
 Education
 ------
-**PhD in Biostatistics (2020)**   
-Department of Biostatistics    
+**PhD in Human Nutrition (2019)**   
+Department of International Health
+Program in Human Nutrition
 Johns Hopkins Bloomberg School of Public Health   
 Baltimore, MD
 
-**BS in Mathematics (2015)**   
-Fudan University   
-Shanghai, China
+**MPH in Public Health Nutrition (2015)**
+University of California, Berkeley
+School of Public Health
+Berkeley, CA
+
+**BA in Public Health Studies and International Studies (2013)**   
+Johns Hopkins University 
+Baltimore, MD
 
 Contact
 ------
-Email: <gqi@uw.edu>
+Email: <hyunjuk1@uw.edu>
