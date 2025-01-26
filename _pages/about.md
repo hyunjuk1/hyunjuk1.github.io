@@ -16,7 +16,7 @@ Click [here](https://www.biostat.washington.edu/people/guanghao-qi) for my UW fa
 
 
 ### News!
-* [January 2025] Qi receives a 5-year K01 award from NHGRI to develop statistical methods for integration of single-cell eQTL and GWAS data. 
+* **January 2025:** Qi receives a 5-year K01 award from NIH to develop statistical methods for integration of single-cell eQTL and GWAS data. 
 
 
 Education
