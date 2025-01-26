@@ -5,6 +5,12 @@ permalink: /people/
 author_profile: true
 ---
 
+<img src="/images/Seth_Peacock.jpg" alt="Seth" width="200"/>
+
+Seth Peacock, PhD Biostatistics (independent study)
+
+Research project: Single-cell transcriptome-wide association studies integrating multiple data sources.
+
 <img src="/images/WenyuBo_photo.jpg" alt="Wenyu" width="200"/>
 
 Wenyu Bo, MS Statistics
