@@ -5,21 +5,19 @@ permalink: /people/
 author_profile: true
 ---
 
-<img src="/images/Seth_Peacock.jpg" alt="Seth" width="150"/>
+<img src="/images/" alt="Seth" width="150"/>
 
-Seth Peacock, PhD Biostatistics (independent study)
+, MS Epidemiology 
 
-Research project: Single-cell transcriptome-wide association studies integrating multiple data sources.
+Research project: .
 
-<img src="/images/WenyuBo_photo.jpg" alt="Wenyu" width="150"/>
+<img src="/images/" alt="Wenyu" width="150"/>
 
-Wenyu Bo, MS Statistics
+, Summer practicum
 
-Research project: Mendelian randomization across multiple ancestries.
+Research project: .
 
-<img src="/images/TengfeiCui_photo.jpg" alt="Tengfei" width="150"/>
+<img src="/images/.jpg" alt="Tengfei" width="150"/>
 
 
-Tengfei Cui, MS Biostatistics
 
-Research project: A GPU-based scalable software for single-cell allele-specific exression analysis.
