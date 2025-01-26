@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guanghao Qi"
+title                    : "Hyunju Kim"
 title_separator          : "-"
-name                     : &name "Guanghao Qi"
+name                     : &name "Hyunju Kim"
 description              : &description "personal description"
 url                      : https://hyunjuk1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guanghao Qi"
+  name             : "Hyunju Kim"
   avatar           : "UW_webphoto.JPG"
   bio              : "Assistant Professor, University of Washington"
   location         : "Seattle, WA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=974isDkAAAAJ&hl=en"
-  email            : "gqi@uw.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1tkKUb2Snrz59s/bibliography/public/"
+  googlescholar    : "https://scholar.google.com/citations?user=3YZ4UVIAAAAJ&hl=en"
+  email            : "hyunjuk1@uw.edu"
+  researchgate     : "https://www.researchgate.net/profile/Hyunju-Kim-13?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gqi"
+  github           : #"gqi"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@guanghao_qi"
+  twitter          : #"@guanghao_qi"
   vine             :
   weibo            :
   xing             :
